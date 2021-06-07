@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weathercraft</string>
+    <string name="navigation_drawer_open">Öffne Navigation</string>
+    <string name="navigation_drawer_close">Schließe Navigation</string>
+    <string name="set_name">Minecraft Skin laden</string>
+    <string name="no_char">Kein Character ausgewählt...</string>
+    <string name="nav_character">Charakter</string>
+    <string name="nav_weather">Wetter</string>
+    <string name="nav_cities">Städte</string>
+    <string name="nav_info">Info</string>
+</resources>

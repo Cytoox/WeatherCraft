@@ -1,0 +1,13 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Fill the background with a solid color -->
+    <item android:drawable="@color/dayBackgroundColor"/>
+
+    <!-- Place your bitmap in the center -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/logo_splash_screen"/>
+    </item>
+
+</layer-list>
