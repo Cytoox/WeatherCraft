@@ -28,7 +28,7 @@ public class WeatherAPI extends AsyncTask<String, Void, JSONObject> implements A
 
     public AsyncJSONResponse delegate;
     public static final String API = "https://api.openweathermap.org/data/2.5/";
-    public static final String API_KEY = "2a2121d33f259f4c05301ac106d5b0b2";
+    public static final String API_KEY = "";
     public static final String LANGUAGE = "&lang=de";
     public static final String TEMPERATURE_FORMAT = "&units=metric";
 
